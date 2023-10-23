@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amine LADEL</h1>
 <hr>
-<h3 align="center"> 🎓 Looking for an apprenticeship for my 2nd and 3rd year of Bachelor 🤝</h3>
+<h3 align="center"> 🎓 Currently in work-study program for my 2nd and 3rd year of Bachelor 🤝</h3>
 <p align="center">I'm a student who is passionate about IT 🖥 and Photography/Video 📸</p>
 
 ## 🔭 Currently working on
 - University of Franche-Comte
 
 ## 🌱 Currently learning
+- Data analysis
 - Network security
 - Application development
 - Web development
