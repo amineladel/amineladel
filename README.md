@@ -8,9 +8,9 @@
 
 ## 🌱 Currently learning
 - Data analysis
-- Network security
 - Application development
 - Web development
+- Network security
 
 ## 📫 How to reach me
 - Email: amine.ladel@edu.univ-fcomte.fr
