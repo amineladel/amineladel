@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amine LADEL</h1>
+<h1 align="center">Hi 👋, I'm Amine</h1>
 <hr>
-<h3 align="center"> 🎓 Currently in work-study program for my 2nd and 3rd year of Bachelor 🤝</h3>
+<h3 align="center"> 🎓 Currently in my 3rd year of Bachelor 🤝</h3>
 <p align="center">I'm a student who is passionate about IT 🖥 and Photography/Video 📸</p>
 
 ## 🔭 Currently working on
@@ -11,9 +11,6 @@
 - Application development
 - Web development
 - Network security
-
-## 📫 How to reach me
-- Email: amine.ladel@edu.univ-fcomte.fr
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/amine-ladel">
